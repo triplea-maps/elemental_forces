@@ -1,0 +1,20 @@
+
+========version 1.0=========
+o Tweaked on-screen graphics.
+o Added soundFX and enhanced off-turn battle ambience.
+o Re-ordered player turns to colors in alphabetical order.
+o Assigned automatic default AI setting to all factions at game start.
+o Made +1 to AI defensive rolls, the default game setting.
+
+
+
+========version 0.8=========
+o Shyde was receiving -2 from its element instead of +1. Fixed.
+o Magic units are now -1 att/def on plains. (was -1 defense on plains)
+o Added 2 round combat limit. (round limit can be edited in game options)
+o Customized Game Options menu.
+o Splash screen added to game.
+o Production Arrow graphic redone.
+o Excess files removed from folder.
+o Changed cursor and included 8 alternate cursors to choose from.
+o Game notes updated.
