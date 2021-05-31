@@ -1,0 +1,3 @@
+map_name: elemental_forces
+games:
+- {game_name: Elemental_Forces, file_name: Elemental_Forces.xml}
